@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/augusto1jr / augusto.eu.jr@gmail.com / (81) 98402-9073
 - ⚡ Fun fact: besides coding, i also like to workout 🦾
 
---><h1 align="center">Hi👋, I'm augusto1jr</h1>
+--><h1 align="center">Hi👋, I'm Augusto</h1>
 <h3 align="center">A passionate software developer from Brasil. UFRPE/SENAC.</h3>
 
 <h3 align="center">Languages and Tools:</h4>
